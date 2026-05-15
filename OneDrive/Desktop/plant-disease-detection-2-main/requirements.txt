@@ -1,7 +1,0 @@
-streamlit
-torch
-torchvision
-pillow
-numpy
-scikit-learn
-matplotlib
