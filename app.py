@@ -131,7 +131,7 @@ def get_base64(bin_file):
         data = f.read()
     return base64.b64encode(data).decode()
 
-bg_image = get_base64("image/bg.jpg")
+bg_image = get_base64("bg.jpg")
 
 page_bg_img = f"""
 <style>
